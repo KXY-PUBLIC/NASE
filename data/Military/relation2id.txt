@@ -1,0 +1,15 @@
+co_author	0
+other_author	1
+co-occurrence_with	2
+research_interest	3
+author_of	4
+published_year	5
+first_author	6
+affiliation	7
+second_author	8
+belonged_domain	9
+published_journal	10
+translation_of	11
+contained_eng_keywords	12
+contained_chn_keywords	13
+all_author	14

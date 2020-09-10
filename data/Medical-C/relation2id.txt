@@ -1,0 +1,6 @@
+symptom	0
+acompany	1
+cure_department	2
+cure_way	3
+check	4
+recommand_drug	5

@@ -1,0 +1,5 @@
+causes	0
+prevention_factors	1
+risk_factors	2
+symptoms	3
+treatments	4
