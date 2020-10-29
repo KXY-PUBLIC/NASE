@@ -9,6 +9,7 @@ In CIKM 2020
 - Linux
 - Python 3.6
 - PyTorch >= 1.2.0
+- numpy: 1.18.5
 
 ## Getting Started
 
@@ -32,11 +33,6 @@ pip install -r requirements.txt
 - FB15K-237 and WN18RR are two well-known KG benchmark datasets.
 - Medical-E, Medical-C and Military are three less common datasets to better compare the dataset adaptation ability of each system. 
 
-## Requirement
-
-* pytorch: 1.4.0
-* python: 3.5.2
-* numpy: 1.16.4
 
 ## Searching Examples:
 
