@@ -87,10 +87,11 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u train.py --dataset=Military  --epochs=100
 Please cite our paper if you use this code in your own work:
 
 ```
-@article{kou2020nase,
+@inproceedings{kou2020nase,
   title={NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search},
   author={Kou, Xiaoyu and Luo, Bingfeng and Hu, Huang and Zhang, Yan},
-  journal={arXiv preprint arXiv:2008.07723},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={2089--2092},
   year={2020}
 }
 ```
