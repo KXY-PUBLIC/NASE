@@ -1,8 +1,7 @@
 # NASE
-Codes for paper "NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search".<br>
+Codes for our CIKM 2020 paper [NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search.](https://arxiv.org/abs/2008.07723)<br>
 Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang.<br>
-In CIKM 2020
-### [arXiv](https://arxiv.org/abs/2008.07723)
+
 
 ## Prerequisites
 
@@ -11,7 +10,7 @@ In CIKM 2020
 - PyTorch >= 1.2.0
 - numpy: 1.18.5
 
-Note: This code framework is based on Paper "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs"
+Note: This code framework is based on Paper [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/abs/1906.01195)
 
 
 ## Getting Started
