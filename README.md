@@ -91,3 +91,5 @@ Please cite our paper if you use this code in your own work:
   year={2020}
 }
 ```
+
+Note: This code framework is based on Paper "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs"
