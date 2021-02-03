@@ -11,6 +11,9 @@ In CIKM 2020
 - PyTorch >= 1.2.0
 - numpy: 1.18.5
 
+Note: This code framework is based on Paper "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs"
+
+
 ## Getting Started
 
 ### Installation
@@ -92,4 +95,3 @@ Please cite our paper if you use this code in your own work:
 }
 ```
 
-Note: This code framework is based on Paper "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs"
